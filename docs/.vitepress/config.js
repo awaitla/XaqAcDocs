@@ -28,20 +28,20 @@ export default defineConfig({
     ],
     footer: {
       message: "Released under the MIT License.",
-      copyright: "Copyright © 2019-present VirtualHotBar",
+      copyright: "Copyright © 2022-present DaiSheng",
     },
     editLink: {
       style: 'github',
       domain: 'github.com',
-      repo: 'VirtualHotBar/HotPEToolBox',
+      repo: 'awaitla/XaqAcDocs',
       branch: 'main',
       dir: 'docs',
       text: '在 GitHub 上编辑此页',
-      pattern: 'https://github.com/VirtualHotBar/HotPEDocsV2/edit/main/docs/:path'
+      pattern: 'https://github.com/awaitla/XaqAcDocs/edit/main/docs/:path'
     },
     lastUpdatedText: "最近更新于",
     socialLinks: [
-      { icon: 'github', link: 'https://www.hotpe.top/CodeWarehouse' }
+      { icon: 'github', link: 'https://github.com/awaitla/XaqAcDocs/' }
     ],
   },
 });
