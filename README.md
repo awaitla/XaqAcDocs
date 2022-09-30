@@ -1,0 +1,2 @@
+# XueAnQuanAutoCompleteDocs
+本仓库为XueAnQuanAutoComplete的官方文档，基于VitePress。
