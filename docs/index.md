@@ -2,12 +2,12 @@
 layout: home
 
 title: 安全教育平台自动化工具
-titleTemplate: 拒绝形式主义，拒绝学校催债
+titleTemplate: 拒绝形式主义，效率是做好工作的灵魂
 sidebar: false
 
 hero:
   name: 安全教育平台自动答题
-  text: 拒绝形式主义，拒绝学校催债
+  text: 拒绝形式主义，效率是做好工作的灵魂
   tagline: 
   actions:
     - theme: brand
