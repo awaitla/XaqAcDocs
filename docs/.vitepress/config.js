@@ -4,7 +4,7 @@ import sidebar from "./sidebar";
 export default defineConfig({
   lang: "zh-CN",
   title: "安全教育平台自动答题",
-  description: "拒绝形式主义，拒绝学校催债",
+  description: "拒绝形式主义，高效完成任务",
   lastUpdated: true,
   base: "/",
   head: [
