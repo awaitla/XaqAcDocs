@@ -14,7 +14,7 @@ export default [
     text: "教程",
     items: [
       { text: "导入学生账号", link: "/course/importAccount", },
-      { text: "关于", link: "/course/about", },
+      { text: "如何自动答题", link: "/course/StartAnswering", },
     ],
   },
 ];
