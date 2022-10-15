@@ -1,6 +1,10 @@
 # 快速开始
 ## 下载
-下载链接(20221002)：https://wwp.lanzouj.com/iSLoV0cvspxa
+V:20221015
+
+下载链接：https://wwp.lanzouj.com/iuf6q0dxioed
+
+备用下载链接：https://www.123pan.com/s/KuQrVv-TSni
 
 ## 工作流
 每个班级**第一次使用**本工具时执行**完整工作流**，**之后只需**执行**简化工作流**，因为“重置密码>修改密码”这个部分是可持续的。
