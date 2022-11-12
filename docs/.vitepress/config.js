@@ -16,19 +16,28 @@ export default defineConfig({
         href: '/favicon.ico',
       },
     ],
+    //51LA统计
+    [
+      'script',
+      {
+        charset: 'UTF-8',
+        id: 'LA_COLLECT',
+        src: '//sdk.51.la/js-sdk-pro.min.js?id=JsLQBTriyGh7czcU&ck=JsLQBTriyGh7czcU',
+      },
+    ],
   ],
   themeConfig: {
     logo: "/favicon.ico",
     sidebar,
     nav: [
       {
-        text: "个人博客",
-        link: "https://blog.hotpe.top/",
+        text: "首页",
+        link: "https://xaq.letsdown.cn/",
       },
     ],
     footer: {
       message: "Released under the MIT License.",
-      copyright: "Copyright © 2022-present DaiSheng",
+      copyright: "Copyright © 2022-present awaitla",
     },
     editLink: {
       style: 'github',
