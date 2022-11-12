@@ -16,8 +16,6 @@ export default defineConfig({
         href: '/favicon.ico',
       },
     ],
-    // 禁止搜索引擎引索
-    ['meta',{name:'robots',content:'noindex,nofollow'}],
   ],
   themeConfig: {
     logo: "/favicon.ico",
