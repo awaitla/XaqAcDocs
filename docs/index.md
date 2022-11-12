@@ -13,13 +13,11 @@ hero:
     - theme: brand
       text: 开始阅读
       link: /started
-    - theme: alt
-      text: 个人博客
-      link: https://blog.hotpe.top/
+
 
 features:
   - title: 可控
-    details: 只供白鹿中学内部班主任和学生使用，缩小使用范围减小不可抗力因素！
+    details: 真正的全自动无人值守完成，让被催债的日子一去不复返！
   - title: 可靠
     details: 基于安全教育平台网页版API，本质与学生独立完成无区别，成功率极高！
   - title: 可分发
