@@ -11,7 +11,14 @@ export default [
     ],
   },
   {
-    text: "教程",
+    text: "学生版",
+    items: [
+      { text: "导入学生账号", link: "/course/importAccount", },
+      { text: "如何自动答题", link: "/course/StartAnswering", },
+    ],
+  },
+  {
+    text: "教师版",
     items: [
       { text: "导入学生账号", link: "/course/importAccount", },
       { text: "如何自动答题", link: "/course/StartAnswering", },
