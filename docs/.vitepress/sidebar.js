@@ -13,7 +13,7 @@ export default [
   {
     text: "学生版",
     items: [
-      { text: "获取学习列表", link: "/student/GetStudyList, },
+      { text: "获取学习列表", link: "/student/GetStudyList", },
       { text: "如何自动答题", link: "/student/AutomaticAswer", },
     ],
   },
@@ -22,7 +22,7 @@ export default [
     items: [
 	{ text: "导入&获取学生账号", link: "/teacher/ImportAccount", },
 	{ text: "一键重置学生密码", link: "/teacher/ResetPass", },
-	{ text: "一键修改学生密码", link: "/teacher/ChangePass, },
+	{ text: "一键修改学生密码", link: "/teacher/ChangePass", },
 	{ text: "如何自动答题", link: "/teacher/AutomaticAswer", },
     ],
   },
